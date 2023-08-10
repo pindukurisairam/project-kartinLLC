@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <h1 class="heading">WWW.Kratinmobile.com</h1>
+    <div class="image-container">
+        <img class="image1" src="https://kratinmobile.com/css/images/kratinlogo256.png" />
+        <h1 class="heading1">Let's <span class="span1">Innovate!</span></h1>
+        <div class="line">
+            <p class="description">How can you help Sunitha Sharma (65+ Years Old) to live healthier and better life ?
+            </p>
+
+            <div class="container">
+                <img src="https://th.bing.com/th/id/R.25851939ef7a428de84375dc2fdd3363?rik=dvyWscoZuylmyQ&riu=http%3a%2f%2fkratinmobile.com%2fcss%2fimages%2fhospice.jpg&ehk=Se1chuee%2fn%2fbqsBuVEppVvL5X46weMVl%2fb%2bI73lZNzw%3d&risl=&pid=ImgRaw&r=0" class="image2" />
+                <div class="card">
+                    <p class="description2 ">Identify one use case for elderly care (for the age group
+                        65+) and create a <span class="span">working prototype</span> to demostrate your idea using technology known to you
+                    </p>
+                    <p class="description3">Expected Efforts: 2 - 3 days</p>
+                </div>
+            </div>
+            <div class="box-container">
+                <div>
+                    <div class="box1">
+                        Innovation & Ideation
+                    </div>
+                    <div class="box2">
+                        <p>.Orginality in idea</p>
+                        <p>.Research skill</p>
+                        <p>.Value outcome</p>
+                    </div>
+                </div>
+                <div>
+                     <div class="box3">
+                        Coding Skills
+                    </div>
+
+                    <div class="box4">
+                        <p>.Logic</p>
+                        <p>.Rapid Prototyping</p>
+                        <p>.Coding Practice</p>
+
+                    </div>
+                </div>
+                <div>
+                    <div class="box5">
+                        Your magic touch
+                    </div>
+                 <div class="box6">
+                    <p>.Secret ingredient for going
+                        towards expertise</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

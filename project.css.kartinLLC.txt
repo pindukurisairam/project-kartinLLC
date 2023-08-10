@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto';
+
+}
+
+.description {
+    justify-content: center;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image1 {
+    height: 100px;
+    width: 100px;
+}
+
+.description3 {
+    color: blue;
+    font-family: "Roboto";
+
+}
+
+.line {
+    position: absolute;
+    width: 100vw;
+    height: 4px;
+    background-color: lightgreen;
+    /* Change this to the desired line color */
+    top: 100%;
+    /* Adjust this value to position the line */
+    left: 0;
+    transform: translateY(50%);
+}
+
+
+
+.image2 {
+    height: 100px;
+    width: 100px;
+}
+
+.container {
+    display: flex;
+}
+
+.span {
+    font-family: "Roboto";
+    color: green;
+}
+
+.card {
+    padding-left: 15px;
+}
+
+.span1 {
+    color: blue;
+}
+
+.box1 {
+    color: black;
+    height: 10vh;
+    width: 100px;
+    border: 2px solid green;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+
+}
+
+.box2 {
+    height: 30vh;
+    width: 100px;
+    border: 2px solid green;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+
+}
+
+.box3 {
+    height: 10vh;
+    width: 100px;
+    border: 2px solid green;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+
+}
+
+.box4 {
+    height: 30vh;
+    width: 100px;
+    border: 2px solid green;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+
+}
+
+.box5 {
+    height: 10vh;
+    width: 100px;
+    border: 2px solid green;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+
+}
+
+.box6 {
+    height: 30vh;
+    width: 100px;
+    border: 2px solid green;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+
+}
+
+.box-container {
+    display: flex;
+}
